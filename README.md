@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jesses2004
+- 👀 I’m interested in data mining, machine learning and deep learning and application of these techniques in human reliability.
+- 🌱 I’m currently learning data mining, machine learning and deep learning.
+- 💞️ I’m looking to collaborate on some projects about statistics and decision making.
